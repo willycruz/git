@@ -1,1 +1,4 @@
-version1
+<?php
+	echo "version1"
+	echo "version2"
+?>
